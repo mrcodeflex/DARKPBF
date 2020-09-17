@@ -6,7 +6,7 @@ import requests
 #functions for letter work
 os.system("clear")
 def banner():
-    os.system("bash banner.sh")
+    os.system("bash Banner.sh")
 def PBF(banner):
     banner()
     #Thare user give info of victim and program send it on a file.
