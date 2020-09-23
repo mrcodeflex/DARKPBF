@@ -131,8 +131,8 @@ def PBF(banner):
     p.write(cnl+"888" "\n")
     p.write(cnl+"999" "\n")
     p.write(pn+"\n")
-    fni=input("Do you want Brute Force right now:")
-    if "y" == fni:
+    fni=input("Do you like this tool:")
+    if "imad vau" == fni:
         print("Copy it /data/data/com.termux/files/home/DARKPBF/"+fnn)
         time.sleep(10)
         os.system("python3 fbbrute.py")
