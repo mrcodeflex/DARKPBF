@@ -138,4 +138,5 @@ def PBF(banner):
         os.system("python3 fbbrute.py")
     else:
         print("Passlist are created on PASSL0CK as",fn+".txt")
+print("Thanks for using my tool")
 PBF(banner)
